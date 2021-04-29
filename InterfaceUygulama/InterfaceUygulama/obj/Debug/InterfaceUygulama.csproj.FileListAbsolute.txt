@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\InterfaceUygulama\InterfaceUygulama\bin\Debug\InterfaceUygulama.exe.config
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\InterfaceUygulama\InterfaceUygulama\bin\Debug\InterfaceUygulama.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\InterfaceUygulama\InterfaceUygulama\bin\Debug\InterfaceUygulama.pdb
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\InterfaceUygulama\InterfaceUygulama\obj\Debug\InterfaceUygulama.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\InterfaceUygulama\InterfaceUygulama\obj\Debug\InterfaceUygulama.Form1.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\InterfaceUygulama\InterfaceUygulama\obj\Debug\InterfaceUygulama.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\InterfaceUygulama\InterfaceUygulama\obj\Debug\InterfaceUygulama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\InterfaceUygulama\InterfaceUygulama\obj\Debug\InterfaceUygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\InterfaceUygulama\InterfaceUygulama\obj\Debug\InterfaceUygulama.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.28.2021\InterfaceUygulama\InterfaceUygulama\obj\Debug\InterfaceUygulama.pdb
